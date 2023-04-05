@@ -1,16 +1,20 @@
-# prototype_slider
+# Prototype_Slider_Animation_Background_in_Flutter_ui
 
-A new Flutter project.
+#### Github Link : https://github.com/dudecoderr/Prototype_Slider_Animation_Background_in_Flutter_ui.git
 
-## Getting Started
+                               
+# Changelog
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Note: _**last updated january 2023 configured project to latest flutter version 3.7.8**_
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+<img src="" width="200%">
+</p>
+
+**Packages used:**
+
+ - animate_gradient: ^0.0.2
+ - flutter_screenutil: ^5.6.0
+
